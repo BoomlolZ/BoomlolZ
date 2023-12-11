@@ -28,6 +28,6 @@ I have always been interested in learning about programming and web development 
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/BoomlolZ"><img src="https://github-readme-stats.vercel.app/api?username=BoomlolZ&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="BoomlolZ's GitHub stats" /></a>
+<a href="http://www.github.com/BoomlolZ"><img src="https://github-readme-streak-stats.herokuapp.com/?user=BoomlolZ&stroke=ffffff&background=000000&ring=14b8a6&fire=14b8a6&currStreakNum=ffffff&currStreakLabel=14b8a6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="https://github.com/BoomlolZ" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BoomlolZ&langs_count=10&title_color=14b8a6&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
